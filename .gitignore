@@ -1,0 +1,13 @@
+.env
+
+logs/
+
+backups/
+
+*.log
+
+*.db
+
+__pycache__/
+
+*.pyc
