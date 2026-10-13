@@ -1,0 +1,16 @@
+Sprint 1
+
+Ticket: INC-0001
+Estado: 🔴 Abierto
+
+Objetivo:
+Desplegar el servidor web de TechCorp usando Nginx.
+
+Documentación relacionada:
+docs/deployment/nginx.md
+
+Criterios de aceptación:
+□ Todos cumplidos
+
+Resultado esperado:
+Servidor accesible desde el navegador.
